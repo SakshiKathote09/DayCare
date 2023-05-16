@@ -20,7 +20,8 @@ Day-Care is a comprehensive management system for daycare centers, designed to s
 
 ## Screenshots
 
-![Dashboard](https://github.com/sakshikathote09011998/DayCare/assets/98234021/d65c9c2d-08e4-4324-a4e7-16267f24324d)
+![Dashboard]![5](https://github.com/SakshiKathote09/DayCare/assets/98234021/65643cfc-a8e5-4d46-9a47-d2040444bd79)
+
 
 ## Getting Started
 
